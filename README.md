@@ -38,11 +38,11 @@ flutter pub get
 
 ### Screenshots
 #### Notes Screen
-    ![Home Screen](screenshots/home-screen.png)
+![Home Screen](screenshots/home-screen.png)
 #### Add New Note
-    ![Create Screen](screenshots/create-note.png)
+![Create Screen](screenshots/create-note.png)
 #### Update Existing Note
-    ![Update Screen](screenshots/update-note.png)
+![Update Screen](screenshots/update-note.png)
 
 ### Contributing
 
