@@ -37,11 +37,11 @@ flutter pub get
 - Run the app on an emulator or physical device.
 
 ### Screenshots
-- Notes Screen
+#### Notes Screen
     ![Home Screen](screenshots/home-screen.png)
-- Add New Note
+#### Add New Note
     ![Create Screen](screenshots/create-note.png)
-- Update Existing Note
+#### Update Existing Note
     ![Update Screen](screenshots/update-note.png)
 
 ### Contributing
